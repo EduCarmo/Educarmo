@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá eu sou o Eduardo Carmo
 
-<!--
-**EduCarmo/Educarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack, com experiência em criação e manutenção de sistemas e websites. Apaixonado por tecnologia, estou sempre buscando aprimorar meus conhecimentos e enfrentar novos desafios no desenvolvimento.
 
-Here are some ideas to get you started:
+📧 Email: eduardocarmo72@gmail.com
+🌐 LinkedIn: www.linkedin.com/in/eduardo-carmo-453348174
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linguagens e Tecnologias
+Tenho proficiência nas seguintes tecnologias:
+Front-End: HTML, CSS, JavaScript, React
+Back-End: Java, Spring Boot, Node.js
+
+### Sobre Mim
+🎓 Atualmente, sou estudante de desenvolvimento Full Stack, com formação em Análise e Desenvolvimento de Sistemas.
+💼 Atuo com social media e desenvolvimento de soluções digitais pela minha empresa, A&E Digital Solutions.
+🌱 Sempre em busca de oportunidades para aplicar meus conhecimentos e contribuir para o sucesso de projetos de tecnologia!
+
+## Tecnologias que Utilizo
+<div style="display: inline_block"><br> <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Edu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> <img align="center" alt="Edu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Edu-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> <img align="center" alt="Edu-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> <img align="center" alt="Edu-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> </div>
+
+
+## Entre em Contato
+<div> 
+<a href="mailto:eduardocarmo72@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/eduardo-carmo-453348174" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
+</div>
