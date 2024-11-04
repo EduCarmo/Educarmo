@@ -12,7 +12,7 @@ Back-End: Java, Spring Boot, Node.js
 
 ### Sobre Mim
 🎓 Atualmente, sou estudante de desenvolvimento Full Stack, com formação em Análise e Desenvolvimento de Sistemas.
-💼 Atuo com social media e desenvolvimento de soluções digitais pela minha empresa, A&E Digital Solutions.
+💼 Tenho sólida experiência e conhecimento nas principais tecnologias de desenvolvimento, incluindo CSS, Bootstrap e JavaScript para construção de interfaces modernas e responsivas.
 🌱 Sempre em busca de oportunidades para aplicar meus conhecimentos e contribuir para o sucesso de projetos de tecnologia!
 
 ## Tecnologias que Utilizo
