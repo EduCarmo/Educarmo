@@ -2,17 +2,17 @@
 
 Desenvolvedor Full Stack, com experiência em criação e manutenção de sistemas e websites. Apaixonado por tecnologia, estou sempre buscando aprimorar meus conhecimentos e enfrentar novos desafios no desenvolvimento.
 
-📧 Email: eduardocarmo72@gmail.com
+📧 Email: eduardocarmo72@gmail.com <br>
 🌐 LinkedIn: www.linkedin.com/in/eduardo-carmo-453348174
 
-### Linguagens e Tecnologias
-Tenho proficiência nas seguintes tecnologias:
-Front-End: HTML, CSS, JavaScript, React
+### Linguagens e Tecnologias <br>
+Tenho proficiência nas seguintes tecnologias:<br>
+Front-End: HTML, CSS, JavaScript, React<br>
 Back-End: Java, Spring Boot, Node.js
 
 ### Sobre Mim
-🎓 Atualmente, sou estudante de desenvolvimento Full Stack, com formação em Análise e Desenvolvimento de Sistemas.
-💼 Tenho sólida experiência e conhecimento nas principais tecnologias de desenvolvimento, incluindo CSS, Bootstrap e JavaScript para construção de interfaces modernas e responsivas.
+🎓 Atualmente, sou estudante de desenvolvimento Full Stack, com formação em Análise e Desenvolvimento de Sistemas. <br>
+💼 Tenho sólida experiência e conhecimento nas principais tecnologias de desenvolvimento, incluindo CSS, Bootstrap e JavaScript para construção de interfaces modernas e responsivas.<br>
 🌱 Sempre em busca de oportunidades para aplicar meus conhecimentos e contribuir para o sucesso de projetos de tecnologia!
 
 ## Tecnologias que Utilizo
