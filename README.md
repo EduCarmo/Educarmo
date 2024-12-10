@@ -7,8 +7,8 @@ Desenvolvedor Full Stack, com experiência em criação e manutenção de sistem
 
 ### Linguagens e Tecnologias <br>
 Tenho proficiência nas seguintes tecnologias:<br>
-Front-End: HTML, CSS, JavaScript, React<br>
-Back-End: Java, Spring Boot, Node.js
+Front-End: HTML, CSS, Bootstrap, JavaScript, typescript, React, Next.js<br>
+Back-End: Node.js, Java, Spring Boot
 
 ### Sobre Mim
 🎓 Atualmente, sou estudante de desenvolvimento Full Stack, com formação em Análise e Desenvolvimento de Sistemas. <br>
