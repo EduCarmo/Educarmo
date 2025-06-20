@@ -1,26 +1,62 @@
-# Olá eu sou o Eduardo Carmo
+<h1 align="center">👋 Olá! Eu sou o Eduardo Carmo</h1>
 
-Desenvolvedor Full Stack, com experiência em criação e manutenção de sistemas e websites. Apaixonado por tecnologia, estou sempre buscando aprimorar meus conhecimentos e enfrentar novos desafios no desenvolvimento.
+<p align="center">
+Desenvolvedor Full Stack especializado em construir soluções web modernas com foco em performance, escalabilidade e boas práticas. Apaixonado por tecnologia, estou em constante evolução para entregar valor real por meio do código.
+</p>
 
-📧 Email: eduardocarmo72@gmail.com <br>
-🌐 LinkedIn: www.linkedin.com/in/eduardo-carmo-453348174
+---
 
-### Linguagens e Tecnologias <br>
-Tenho proficiência nas seguintes tecnologias:<br>
-Front-End: HTML, CSS, Bootstrap, JavaScript, typescript, React, Next.js<br>
-Back-End: Node.js, Java, Spring Boot
+### 🚀 Sobre mim
 
-### Sobre Mim
-🎓 Atualmente, sou estudante de desenvolvimento Full Stack, com formação em Análise e Desenvolvimento de Sistemas. <br>
-💼 Tenho sólida experiência e conhecimento nas principais tecnologias de desenvolvimento, incluindo CSS, Bootstrap e JavaScript para construção de interfaces modernas e responsivas.<br>
-🌱 Sempre em busca de oportunidades para aplicar meus conhecimentos e contribuir para o sucesso de projetos de tecnologia!
+- 💼 Desenvolvedor Full Stack com experiência em projetos completos, do backend ao frontend.
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas.
+- 🛠️ Atuo com tecnologias modernas como **NestJS**, **Next.js**, **Prisma**, **PostgreSQL**, e mais.
+- 🎯 Busco oportunidades para aplicar meu conhecimento em projetos desafiadores e continuar crescendo profissionalmente.
 
-## Tecnologias que Utilizo
-<div style="display: inline_block"><br> <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Edu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> <img align="center" alt="Edu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Edu-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> <img align="center" alt="Edu-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> <img align="center" alt="Edu-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> </div>
+---
 
+### 💡 Principais Tecnologias
 
-## Entre em Contato
-<div> 
-<a href="mailto:eduardocarmo72@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/eduardo-carmo-453348174" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a> 
-</div>
+#### 🔧 Backend
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### 🖥️ Frontend
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 🧠 Conhecimentos Complementares
+
+- 🐳 Docker (em aprendizado)
+- 📦 RESTful APIs e arquitetura de software
+- 🚀 Deploy com Vercel, Railway e Supabase
+- 📚 Boas práticas com SOLID e Clean Architecture
+
+---
+
+### 📌 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|------------|-------------|
+| **Sistema de Certificados** | Sistema completo de emissão de certificados de calibração | Rest API com Express, PostgreSQL, React |
+| **Sistema de Agendamento para Barbearia** | Agendamento online com painel de administração | Next.js, Tailwind, PostgreSQL, Nest.js, Prisma |
+| **ERP em Desenvolvimento** | Sistema empresarial modular (em progresso) | Next.js, NestJS, PostgreSQL, Clean Architecture |
+
+---
+
+### 📫 Como falar comigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-carmo-453348174/)
+[![Gmail](https://img.shields.io/badge/-eduardocarmo72@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardocarmo72@gmail.com)
+
+---
+
+### 💬 Frase que me guia
+
+> _"Aprendizado constante e entrega de valor real. Um código limpo hoje é uma manutenção mais fácil amanhã."_ 💻✨
