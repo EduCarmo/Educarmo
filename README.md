@@ -35,7 +35,7 @@ Desenvolvedor Full Stack especializado em construir soluções web modernas com 
 
 - 🐳 Docker (em aprendizado)
 - 📦 RESTful APIs e arquitetura de software
-- 🚀 Deploy com Vercel, Railway e Supabase
+- 🚀 Deploy com Vercel, Fly.io e Supabase
 - 📚 Boas práticas com SOLID e Clean Architecture
 
 ---
